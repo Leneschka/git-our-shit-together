@@ -1,6 +1,6 @@
 # Git Workshop - Let's git our shit together!
-
---- 
+## What what??
+---
 
 ### Installation und Accounterstellung
 - siehe `README` des Repositories
